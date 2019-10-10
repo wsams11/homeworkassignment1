@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+}
+
+.navbar{
+    background-color:#ffffff;
+    width: 100%;
+    margin: 0 auto;
+    border-color: #cccccc;
+    border-bottom-style: solid;
+    overflow: auto;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+    height: auto;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.bio {
+    overflow: auto;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.bio-img {
+    float: left;
+    margin-right: 20px;
+}
+
+ul{
+    list-style-type: none;
+    float: right;
+    margin: 0;
+}
+.navbar li {
+    display: inline;
+    border-right: 1px solid grey;
+}
+
+.navbar li:last-child{
+    border: none;
+}
+
+.navbar li a{
+    text-decoration: none;
+    display: table-cell;
+    text-align: center;
+    padding: 10px;
+    vertical-align: middle;
+}
+.name{
+    color: #fff;
+    background-color: #4aaaa5;
+    padding: 20px;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+    
+}
+footer{
+    background-color:#666666;
+    width: 100%;
+    padding: 20px;
+    height: 20px;
+    text-align: center;
+    color: white;
+}
+.about-me{
+    color: #4aaaa5;
+
+}
