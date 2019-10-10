@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    width: 75%;
+    width: 960px;
     margin: 0 auto;
     height: auto;
     background-color: #ffffff;
@@ -73,4 +73,15 @@ footer{
 .about-me{
     color: #4aaaa5;
 
+}
+.wrapper {
+    width: 960px;
+    margin: 0 auto;
+
+}
+form {
+}
+.contact{
+    width: 960px;
+    
 }
