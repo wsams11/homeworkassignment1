@@ -85,3 +85,7 @@ form {
     width: 960px;
     
 }
+body{
+    background-image: url(../images/circle-blues.png);
+    background-size: 960px;
+}
