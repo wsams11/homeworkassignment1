@@ -165,3 +165,7 @@ h3{
 .trivia{
     margin-bottom: 10px;
 }
+#trivia{
+    height: 200px;
+    width: 250px;
+}
