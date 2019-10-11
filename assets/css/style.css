@@ -131,11 +131,13 @@ body{
 
 .work {
     position: relative;
-    width: 40%;
+    width: 250px;
     margin: 20px 0;
     overflow: auto;
     float: left;
     margin-left: 3.5%;
+    height: 200px;
+
 }
 
 .work img{
@@ -159,4 +161,7 @@ h3{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+}
+.trivia{
+    margin-bottom: 10px;
 }
